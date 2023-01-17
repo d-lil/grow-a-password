@@ -16,6 +16,9 @@ N/A
 
 ## Usage
 
+Visit page:
+https://d-lil.github.io/grow-a-password/
+
 After clicking "Generate Password" button, the page will prompt for:
 
 Character count (from 8-128)
